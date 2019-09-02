@@ -1,3 +1,3 @@
 # Fundamentals-of-Programming-and-Computer-Science
 
-Different Projects 
+See folders for different progams 
