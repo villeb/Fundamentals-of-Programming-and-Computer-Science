@@ -1,3 +1,3 @@
 # Fundamentals-of-Programming-and-Computer-Science
 
-jejejejeje
+Projects within bachelor course in Python. 
