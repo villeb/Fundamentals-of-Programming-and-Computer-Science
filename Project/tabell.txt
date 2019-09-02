@@ -1,0 +1,7 @@
+Arsenal 1 1 1 12 12
+ManUtd 1 1 0 7 6
+Liverpool 2 0 1 8 8
+Newcastle 0 1 4 8 12
+Arnal 1 1 0 6 5
+Blackpool 0 0 0 0 0
+Blackburn 1 0 0 4 2

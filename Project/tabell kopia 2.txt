@@ -1,0 +1,4 @@
+Arsenal 2 1 0 9 4
+ManUtd 2 0 0 4 1
+Liverpool 0 1 2 3 8
+Newcastle 0 0 2 0 3
